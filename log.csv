@@ -1,0 +1,16 @@
+timestamp,query,response,topic,rating
+2025-06-29 22:16:46.469554,hello,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:17:01.546343,hai,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:17:06.634037,hai,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:17:16.243799,heyy,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:20:16.892319,what is ai?,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:20:24.940710,what is ai?,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:20:45.518318,what is ai?,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:22:14.222044,hello,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:22:17.158028,hello,"Sorry, I don't understand.",Unknown,1
+2025-06-29 22:22:19.446052,hello,"Sorry, I don't understand.",Unknown,1
+2025-07-02 20:31:03.030651,fever,Please consult a doctor. It might be a viral fever.,Health,1
+2025-07-02 20:36:11.174208,java,Java is a programming language.,Programming,1
+2025-07-02 20:52:47.542720,fever,Please consult a doctor. It might be a viral fever.,Health,1
+2025-07-02 21:49:17.975540,Tell something about java?,Java is a programming language.Java is an object oriented programming language.,Programming,1
+2025-07-03 08:19:43.158376,tell me something about java?,Java is a programming language.Java is an object oriented programming language.,Programming,1
